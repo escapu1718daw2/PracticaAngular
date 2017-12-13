@@ -1,0 +1,41 @@
+#fullFooter{
+    width:80%;
+    height:10%;
+    position:fixed;
+    margin-left:20%; 
+    padding: 0px;
+    bottom: 0;
+    background-color:	#222222; 
+    
+}
+.progress{
+    width:100%;
+    height: 12%;
+    margin :0px;
+    padding: 0px;
+}
+.progress-bar{
+    background-color:#8064A2 !important;
+    
+}
+.btn-group{
+    height:88%;
+}
+
+.btn{
+    height: 100%;
+    width: 80px;
+    padding: 0px;
+    margin:0px;
+}
+.white, .white a {
+    color: #fff;
+    background-color: #222222;
+}
+.btn:hover{
+    background-color: #323232;
+}
+
+
+
+
